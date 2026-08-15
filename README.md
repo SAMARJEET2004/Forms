@@ -3,8 +3,8 @@
 
 ## Source
 -[The Odin Project,Intermediate HTML && CSS , Project:Sign-up Form ](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form)
-##Scope
-**Core Focus:** Semantic HTML5 form construction, responsive layout (Flexbox), and custom UI styling.
+## Scope
+-**Core Focus:** Semantic HTML5 form construction, responsive layout (Flexbox), and custom UI styling.
 - **Intentional Constraint (No JavaScript):** Built strictly without JS. All form validation relies on native HTML5 attributes (`required`, `type`, `minlength`, `pattern`), while visual feedback is handled purely through CSS pseudo-classes (`:focus-visible`, `:valid`, `:invalid`, `:hover`).
 
 ## Credits 
