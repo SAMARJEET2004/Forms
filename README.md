@@ -9,6 +9,12 @@
 
 ## Credits 
 
+### Background
+- * Background Image by [Hayley Murray](https://unsplash.com/@hayleymurrayphoto)
+
+### Font
+- * Troika(https://www.joelcarrouche.com/fonts/troika)
+
 ### Images/Logos
 
 - * [Odin Logo](https://raw.githubusercontent.com/TheOdinProject/curriculum/5f37d43908ef92499e95a9b90fc3cc291a95014c/html_css/project-sign-up-form/odin-lined.png)
